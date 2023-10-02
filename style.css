@@ -1,10 +1,6 @@
 @import url('framework/bootstrap.min.css');
 
-body {
-    background: linear-gradient(to bottom, #f78cd5, #a7f6c1);
-    background-attachment: fixed; 
-    background-size: cover;  
-}
+
 div{
     width: 700px;
     height: auto;
@@ -45,5 +41,9 @@ div{
 .eie {
     color: #6e0444;
 }
-
+body {
+    background: linear-gradient(to bottom, #f78cd5, #a7f6c1);
+    background-attachment: fixed; 
+    background-size: cover;  
+}
   
